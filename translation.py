@@ -8,7 +8,7 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Support Group : @TroJanzSupport
+Support Channal : @Deva_TG_update
 """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
@@ -21,7 +21,7 @@ Support Group : @TroJanzSupport
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @TroJanzSupport
+Support Channal : @Deva_TG_update
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
@@ -33,11 +33,11 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/prgofficial/URLuploader-With-Hotstar'>Click here, Fork and deploy!!</a>"
+    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/mahadev786/URLuploader'>Click here, Fork and deploy!!</a>"
     
-    DOWNLOAD_START = "Trying to download your file..."
+    DOWNLOAD_START = "Trying to download your file in Dev server..."
     
-    UPLOAD_START = "Uploading now.."
+    UPLOAD_START = "Uploading now by Mahadev.."
     
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds."
 
@@ -55,4 +55,4 @@ URL | newfilename | username | password"""
     
     SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail."
     
-    NO_THUMB = "No saved thumbnails Found!!\n\nSend an image to save it as your thumbnail permanently."    
+    NO_THUMB = "No save your thumbnails Found!!\n\nSend an image to save it as your thumbnail permanently."    
